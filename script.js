@@ -28,7 +28,7 @@ const data = [
     id: "5",
     title: "Hand Written Digit Recognition",
     imgSrc: "./img/wip.png",
-    path: "https://drive.google.com/file/d/1piU8G_UDK3ziO8RKCLKlX6CfCwkVlqIC/view?usp=sharing",
+    path: "https://publuu.com/flip-book/80543/226315/page/4",
   },
 ];
 

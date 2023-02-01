@@ -19,18 +19,24 @@ const data = [
   },
   {
     id: "4",
-    title: "Day4 Work In Progress",
+    title: "Day4 Hide Search Youtube",
+    imgSrc: "./img/Day4.png",
+    path: "./Day4 Hide Search Widget/index.html",
+  },
+  {
+    id: "5",
+    title: "Day5 Work In Progress",
     imgSrc: "./img/wip.png",
     path: "./pageNotFound.html",
   },
   {
-    id: "5",
+    id: "6",
     title: "Hand Written Digit Recognition",
     imgSrc: "./img/HandWrittenDigit.png",
     path: "https://publuu.com/flip-book/80543/226315/page/4",
   },
   {
-    id: "6",
+    id: "7",
     title: "My Resume",
     imgSrc: "./img/Resume.png",
     path: "/doc/Ramchandra_Thapa_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0&view=Fit&pagemode=none&zoom=page-fit",

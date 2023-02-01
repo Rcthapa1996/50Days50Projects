@@ -23,12 +23,17 @@ const data = [
     imgSrc: "./img/wip.png",
     path: "./pageNotFound.html",
   },
-
   {
     id: "5",
     title: "Hand Written Digit Recognition",
-    imgSrc: "./img/wip.png",
+    imgSrc: "./img/HandWrittenDigit.png",
     path: "https://publuu.com/flip-book/80543/226315/page/4",
+  },
+  {
+    id: "6",
+    title: "My Resume",
+    imgSrc: "./img/Resume.png",
+    path: "/doc/Ramchandra_Thapa_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0&view=Fit&pagemode=none&zoom=page-fit",
   },
 ];
 

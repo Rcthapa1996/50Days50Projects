@@ -41,6 +41,18 @@ const data = [
     imgSrc: "./img/Resume.png",
     path: "/doc/Ramchandra_Thapa_Resume.pdf#toolbar=0&navpanes=0&scrollbar=0&view=Fit&pagemode=none&zoom=page-fit",
   },
+  {
+    id: "8",
+    title: "Stop Watch",
+    imgSrc: "./img/Stopwatch.png",
+    path: "https://codesandbox.io/embed/jambotail-round-1-stopwatch-xclezb?fontsize=14&hidenavigation=1&theme=dark",
+  },
+  {
+    id: "9",
+    title: "Infinite Comment Reply",
+    imgSrc: "./img/Stopwatch.png",
+    path: "https://codesandbox.io/embed/cmt-reply-txcc24?fontsize=14&hidenavigation=1&theme=dark",
+  },
 ];
 
 const cardContainer = document.getElementById("card-container");

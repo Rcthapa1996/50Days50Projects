@@ -50,8 +50,20 @@ const data = [
   {
     id: "9",
     title: "Infinite Comment Reply",
-    imgSrc: "./img/Stopwatch.png",
+    imgSrc: "./img/commentReply.png",
     path: "https://codesandbox.io/embed/cmt-reply-txcc24?fontsize=14&hidenavigation=1&theme=dark",
+  },
+  {
+    id: "10",
+    title: "Check online offline",
+    imgSrc: "./img/OnlineOffline.png",
+    path: "https://codesandbox.io/embed/online-offline-forked-1d5ue3?fontsize=14&hidenavigation=1&theme=dark",
+  },
+  {
+    id: "11",
+    title: "Color Game",
+    imgSrc: "./img/colorGame.png",
+    path: "https://codesandbox.io/embed/flyfin-interview-2nd-c3nitb?fontsize=14&hidenavigation=1&theme=dark",
   },
 ];
 
